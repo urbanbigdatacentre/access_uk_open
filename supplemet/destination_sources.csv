@@ -1,0 +1,35 @@
+﻿Type destination,Detail,England,Scotland,Wales
+Employment,Source,"Business Register and Employment Survey via Nomis
+https://www.nomisweb.co.uk/
+","Business Register and Employment Survey via Nomis
+https://www.nomisweb.co.uk/
+","Business Register and Employment Survey via Nomis
+https://www.nomisweb.co.uk/
+"
+Employment,Date of reference,2020,2020,2020
+GPs,Source,"NHS Digital
+https://digital.nhs.uk/","Public Health Scotland
+https://www.isdscotland.org/","NHS Digital
+https://digital.nhs.uk/"
+GPs,Date of reference,Nov-21,Oct-21,Nov-21
+Hospitals,Source,"NHS UK
+https://www.nhs.uk/about-us/nhs-website-datasets/","Public Health Scotland
+https://www.opendata.nhs.scot/","Health in Wales
+http://www.wales.nhs.uk
+"
+Hospitals,Date of reference,Jan-22,Jan-22,Consulted on: Jan-22
+Education: primary schools and secondary schools,Source,"Get Information about Schools (DfE)
+https://get-information-schools.service.gov.uk/","Scottish Government
+https://www.gov.scot/","Welsh Government services and information
+https://gov.wales/"
+Education: primary schools and secondary schools,Date of reference,Nov-21,Sep-21,Jan-22
+Supermarkets,Source,"OpenStreetMap
+https://www.openstreetmap.org/","OpenStreetMap
+https://www.openstreetmap.org/","OpenStreetMap
+https://www.openstreetmap.org/"
+Supermarkets,Date of reference,Feb-22,Jan-22 and 2017,Jan-22 and 2017
+Urban centre,Source," Zhang and Pryce (2020).
+DOI: [10.1177/0042098019860776](https://doi.org/10.1177%2F0042098019860776)"," Zhang and Pryce (2020).
+DOI: [10.1177/0042098019860776](https://doi.org/10.1177%2F0042098019860776)"," Zhang and Pryce (2020).
+DOI: [10.1177/0042098019860776](https://doi.org/10.1177%2F0042098019860776)"
+Urban centre,Date of reference,2020,2020,2020
