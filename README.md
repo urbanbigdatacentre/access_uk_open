@@ -1,6 +1,6 @@
 # Public transport accessibility indicators in Great Britain
 
-## Genera description
+## General description
 
 This contains the source-code used to develop a series of public transport accessibility indicators at the lower super output area/Datazone (LSOA/DZ) level covering the whole of Great Britain (GB) in the United Kingdom (UK). The indicators include a range of key amenities and services such as: employment; general practice (GP) surgery; hospital; grocery store; supermarket; primary school; secondary school; and urban centre. 
 
