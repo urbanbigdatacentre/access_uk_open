@@ -6,13 +6,15 @@ This contains the source-code used to develop a series of public transport acces
 
 All the code used to create the indicators is available in this repository (<https://github.com/urbanbigdatacentre/access_uk_open>).
 
-# Realted resources
+![Accessibility to employment](/plots/accessibility/empl_PTmult.png)
+
+## Realted resources
 
   * The indicators can be downloaded at: <https://zenodo.org/record/8037156>.
   * A technical note describing the indicators is available at: <https://zenodo.org/record/6759240>
   * Please note that a former repository used for this purpose was archived and it is no longer maintained (<https://github.com/rafavdz/access_uk>).
 
-# Funding
+## Funding
 
 This project was developed at the [Urban Big Data Centre](https://www.ubdc.ac.uk/) and it was funded by the [Economic and Social Research Council (ESRC)](https://www.ukri.org/councils/esrc/), grant numbers:
   * Urban Big Data Centre (ES/S007105/1)
