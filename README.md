@@ -6,6 +6,8 @@ This contains the source-code used to develop a series of public transport acces
 
 All the code used to create the indicators is available in this repository (<https://github.com/urbanbigdatacentre/access_uk_open>).
 
+The map below shows accessibility to employment for two different time-thresholds as an illustrative example.
+
 ![Accessibility to employment](/plots/accessibility/empl_PTmult.png)
 
 ## Realted resources
